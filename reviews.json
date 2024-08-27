@@ -1,0 +1,244 @@
+{
+    "reviews": [
+        {
+            "professor": "Dr. Amita Roy",
+            "subject": "Introduction to Psychology",
+            "stars": 5,
+            "review": "Dr. Roy is an amazing professor who made psychology so interesting and engaging. Her lectures were always clear and informative."
+        },
+        {
+            "professor": "Prof. Rajesh Kumar",
+            "subject": "Advanced Calculus",
+            "stars": 1,
+            "review": "Prof. Kumar is not a knowledgeable professor and he explains complex concepts in a way that is not easy to understand."
+        },
+        {
+            "professor": "Dr. Meena Patel",
+            "subject": "Modern Indian History",
+            "stars": 5,
+            "review": "Dr. Patel is a passionate professor who brings history to life. Her lectures are always engaging and thought-provoking."
+        },
+        {
+            "professor": "Prof. Ravi Sharma",
+            "subject": "Data Structures and Algorithms",
+            "stars": 3,
+            "review": "Prof. Sharma is a good professor who knows his subject well. However, his teaching style can be a bit dry."
+        },
+        {
+            "professor": "Dr. Anjali Singh",
+            "subject": "Microeconomics",
+            "stars": 4,
+            "review": "Dr. Singh is a clear and concise professor who explains economic concepts in a way that is easy to understand. She is always willing to answer questions."
+        },
+        {
+            "professor": "Prof. Suresh Gupta",
+            "subject": "Organic Chemistry",
+            "stars": 2,
+            "review": "Prof. Gupta's lectures are often disorganized and difficult to follow. His exams are also very challenging."
+        },
+        {
+            "professor": "Dr. Neha Verma",
+            "subject": "Environmental Science",
+            "stars": 5,
+            "review": "Dr. Verma is a passionate professor who cares about her students. She is always willing to help and goes above and beyond to make her classes engaging."
+        },
+        {
+            "professor": "Prof. Ashok Rao",
+            "subject": "Differential Equations",
+            "stars": 3,
+            "review": "Prof. Rao is a knowledgeable professor who is good at explaining complex mathematical concepts. However, his exams can be quite difficult."
+        },
+        {
+            "professor": "Dr. Priya Nair",
+            "subject": "Sociology of India",
+            "stars": 4,
+            "review": "Dr. Nair is a great professor who is both knowledgeable and engaging. Her lectures are always interesting and thought-provoking."
+        },
+        {
+            "professor": "Prof. Ramesh Menon",
+            "subject": "Operating Systems",
+            "stars": 2,
+            "review": "Prof. Menon's lectures are often boring and difficult to follow. He is also not very approachable."
+        },
+        {
+            "professor": "Dr. Nisha Jain",
+            "subject": "International Relations",
+            "stars": 5,
+            "review": "Dr. Jain is a fantastic professor who is both knowledgeable and passionate about her subject. Her lectures are always engaging and informative."
+        },
+        {
+            "professor": "Prof. Rakesh Patel",
+            "subject": "Physics I",
+            "stars": 3,
+            "review": "Prof. Patel is a good professor who knows his subject well. However, his lectures can be a bit dry and difficult to follow."
+        },
+        {
+            "professor": "Dr. Arti Singh",
+            "subject": "Indian Classical Music",
+            "stars": 5,
+            "review": "Dr. Singh is a talented and passionate musician who brings Indian classical music to life. Her classes are always enjoyable and informative."
+        },
+        {
+            "professor": "Prof. Suresh Kumar",
+            "subject": "Database Systems",
+            "stars": 2,
+            "review": "Prof. Kumar's lectures are often disorganized and difficult to follow. He is also not very helpful to students."
+        },
+        {
+            "professor": "Dr. Meenakshi Gupta",
+            "subject": "Comparative Literature",
+            "stars": 4,
+            "review": "Dr. Gupta is a knowledgeable and engaging professor who brings literature to life. Her classes are always interesting and thought-provoking."
+        },
+        {
+            "professor": "Prof. Rajeev Verma",
+            "subject": "Calculus II",
+            "stars": 3,
+            "review": "Prof. Verma is a good professor who knows his subject well. However, his exams can be quite difficult."
+        },
+        {
+            "professor": "Dr. Neha Sharma",
+            "subject": "Indian Philosophy",
+            "stars": 5,
+            "review": "Dr. Sharma is a passionate and knowledgeable professor who brings Indian philosophy to life. Her classes are always engaging and informative."
+        },
+        {
+            "professor": "Prof. Ashok Singh",
+            "subject": "Numerical Methods",
+            "stars": 2,
+            "review": "Prof. Singh's lectures are often boring and difficult to follow. He is also not very approachable."
+        },
+        {
+            "professor": "Dr. Priya Rao",
+            "subject": "Ancient Indian History",
+            "stars": 4,
+            "review": "Dr. Rao is a great professor who is both knowledgeable and engaging. Her lectures are always interesting and thought-provoking."
+        },
+        {
+            "professor": "Prof. Ramesh Patel",
+            "subject": "Artificial Intelligence",
+            "stars": 3,
+            "review": "Prof. Patel is a good professor who knows his subject well. However, his exams can be quite difficult."
+        },
+        {
+            "professor": "Prof. Crystal Endsley",
+            "subject": "Africana",
+            "stars": 5.0,
+            "review": "If you don't take her class you're a fool! She was by far the best professor I ever had. Even though she required you to write papers it is simple. She give pop quiz and it's basic knowledge. She's funny and willing to help if you ask."
+        },
+        {
+            "professor": "Prof. Jason Cross",
+            "subject": "Chemistry",
+            "stars": 4.0,
+            "review": "Only need 50% of tophat points for participation. Lecture recordings are posted. Labs are super boring but the post-lab discussions are worth more than your exam grades. Exam reviews are VERY similar to the actual exam. Lots of easy points if you just look at your feedback for lab reports from previous weeks. Get ready for reaction mechanisms"
+        },
+        {
+            "professor": "Prof. Yelena Zotova",
+            "subject": "Russian",
+            "stars": 5.0,
+            "review": "Get ready for homework regardless of any Russian class you're taking! It's learning a language-- there's going to be lots of time put into it. She is such a kind and funny sarcastic woman who is fun to learn from. She teaches not only the language but the culture surrounding it which helps with immersion. She can be strict but because she cares!"
+        },
+        {
+            "professor": "Prof. Zoe Stamatopoulou",
+            "subject": "Classics",
+            "stars": 4.5,
+            "review": "Professor Zoe is great. She makes class fun and entertaining. She is always really excited about what she is teaching and always able to answer any questions. Loved her class."
+        },
+        {
+            "professor": "Prof. Zoubeida  Ounaies",
+            "subject": "Mechanical",
+            "stars": 1.0,
+            "review": "She is a sweet women, but her grading is downright unfair.  Would never take her again, don't bother going to class if you have to, you'll learn more on your own studying. The labs are brutally long and you will receive a grade lower than what any other professor in the world would give you. Also doesn't know how to answer emails."
+        },
+        {
+            "professor": "Prof. Seul Yoo",
+            "subject": "Music",
+            "stars": 5.0,
+            "review": "This was a really easy class and it is difficult to do bad unless you don't practice the piano. Would recommend for easy A."
+        },
+        {
+            "professor": "Prof. Stephen Flood",
+            "subject": "Mathematics",
+            "stars": 4.0,
+            "review": "Good prof"
+        },
+        {
+            "professor": "Prof. Allison Flemming",
+            "subject": "Social",
+            "stars": 4.0,
+            "review": "I haven't attended class since the first week of the semester. The study guides for exams are very self explanatory and a lot of the assignments are just reflections based on podcasts/videos. The Professional Plan project is slightly tedious, but nothing you need to actually go to class for"
+        },
+        {
+            "professor": "Prof. Valerie Flamini",
+            "subject": "Art",
+            "stars": 2.0,
+            "review": "Tons of reading so be prepared. Tough grader."
+        },
+        {
+            "professor": "Prof. Juan Pablo Neyret",
+            "subject": "Spanish",
+            "stars": 2.5,
+            "review": "Senor is a good guy. You will laugh in his class a decent amount. You do have to study though. If you know of a better alternative, take it, but he is really not that bad."
+        },
+        {
+            "professor": "Prof. We Jung Yi",
+            "subject": "Korean",
+            "stars": 4.0,
+            "review": "Professor Yi is very dedicated to her subject and wants to help you do well. If you care about Korean history, film, Korean politics, or related topics you will do well. Her lectures can be boring, but they are important to your essay. You must watch films outside of class and prepare talking points for discussion. I would take this class again."
+        },
+        {
+            "professor": "Prof. Jin Lee",
+            "subject": "Political",
+            "stars": 5.0,
+            "review": "Great teacher."
+        },
+        {
+            "professor": "Prof. Dongwon Lee",
+            "subject": "Computer",
+            "stars": 1.0,
+            "review": "Dongwon is a nice guy, but his grading system is very unfair. The tests take a very large portion of your grade, and if you do poorly on one of them, prepare for your grade to drop big time. His lectures are very long and hard to follow. His handwriting is hard to read as well. The layout of the class was horrible and leaves little room for error. "
+        },
+        {
+            "professor": "Prof. Vandana Kalia",
+            "subject": "Biological",
+            "stars": 3.0,
+            "review": "She and dr sarkar teach the class together. They're a little hard to understand but she talks slower and is easier. The class is a lot of memorization but they grade very easily they said they've never failed anyone. I had like 80s 90s and a 60 I think and I still got an A :) definitely interesting and you learn a lot."
+        },
+        {
+            "professor": "Prof. Joel Vanden",
+            "subject": "Finance",
+            "stars": 1.0,
+            "review": "He never posts any material online, and does the bare minimum to help students. Prefers we discuss with other peers instead of coming to him for help. He does not really care about his students; ruined my mental health. Unless you are a Finance whiz that doesn't need much help, do not take this professor."
+        },
+        {
+            "professor": "Prof. Adriana Van Hel",
+            "subject": "Psychology",
+            "stars": 5.0,
+            "review": "Some of the  material covered was based her own research so she really knew what she was talking about and gave great examples for each topic to make it easy to learn. The most interesting Psych class I  took and "
+        },
+        {
+            "professor": "Prof. Ariane Cruz",
+            "subject": "Women's",
+            "stars": 3.0,
+            "review": "ALOT OF READING... but I never did any. go to class and take notes, midterm is pretty specific so take good notes. second half of course is facilitations/student presentations so dont worry about notes. (but double check ur syllabus). class facilitation was tedious for me but I mean oh well. grading was fair and the course is super cool tho!"
+        },
+        {
+            "professor": "Prof. Robert Crassweller",
+            "subject": "Horticulture",
+            "stars": 2.5,
+            "review": "No Comments"
+        },
+        {
+            "professor": "Prof. Nathan Craig",
+            "subject": "Anthropology",
+            "stars": 5.0,
+            "review": "great class!"
+        },
+        {
+            "professor": "Prof. Joseph Verica",
+            "subject": "Biological",
+            "stars": 5.0,
+            "review": "Professor Verica was an amazing teacher! I found the content kind of boring, but his lectures kept me interested. He's super cool and super nice and super chill. Wish I could take his class again. Just beware there's a lot of tests which can be difficult but homework is easy. Super cool guy 10/10 absolute legend."
+        }
+    ]
+}

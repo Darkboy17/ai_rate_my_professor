@@ -1,0 +1,32 @@
+{
+  "name": "rmp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 4000",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@google-cloud/aiplatform": "^3.27.0",
+    "@google-cloud/vertexai": "^1.5.0",
+    "@mui/material": "^5.16.7",
+    "@pinecone-database/pinecone": "^3.0.1",
+    "axios": "^1.7.5",
+    "cheerio": "^1.0.0",
+    "next": "14.2.5",
+    "next-cors": "^1.0.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-markdown": "^9.0.1",
+    "react-toastify": "^10.0.5",
+    "remark-gfm": "^4.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5"
+  }
+}
